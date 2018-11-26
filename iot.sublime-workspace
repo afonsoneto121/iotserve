@@ -1,0 +1,399 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"r",
+				"req"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"i",
+				"idx"
+			],
+			[
+				"id",
+				"idy"
+			],
+			[
+				"blo",
+				"bloco"
+			],
+			[
+				"csv",
+				"csv_false_transacao"
+			],
+			[
+				"TEM",
+				"tempo_medio_100"
+			],
+			[
+				"tr",
+				"transacaoes"
+			],
+			[
+				"time",
+				"time_transacao"
+			],
+			[
+				"temp",
+				"tempo_medio_100"
+			],
+			[
+				"blocos_",
+				"blocos_100"
+			],
+			[
+				"w",
+				"write"
+			],
+			[
+				"csv_",
+				"csv_100"
+			],
+			[
+				"sai",
+				"saida_100"
+			],
+			[
+				"sa",
+				"saida_time_bloco"
+			],
+			[
+				"new",
+				"newTransac"
+			],
+			[
+				"cre",
+				"Create"
+			],
+			[
+				"pri",
+				"private"
+			],
+			[
+				"m_id",
+				"m_idRequested"
+			],
+			[
+				"m_reque",
+				"m_idRequested"
+			],
+			[
+				"m_idre",
+				"m_idRequest"
+			],
+			[
+				"reque",
+				"idRequest"
+			],
+			[
+				"m_b",
+				"m_blocks"
+			],
+			[
+				"m_blocks",
+				"m_blocks"
+			],
+			[
+				"GetBlo",
+				"GetBlockHeight"
+			],
+			[
+				"has",
+				"hashVerification"
+			],
+			[
+				"timecre",
+				"m_timeCreated"
+			],
+			[
+				"blocks",
+				"blockSizeBytes"
+			],
+			[
+				"m_blo",
+				"m_blockSizeBytes"
+			],
+			[
+				"blocksi",
+				"m_blockSizeBytes"
+			],
+			[
+				"tru",
+				"m_trust"
+			],
+			[
+				"blockSi",
+				"m_blockSizeBytes"
+			],
+			[
+				"pa",
+				"m_parentBlockMinerId"
+			],
+			[
+				"re",
+				"receivedFromIpv4"
+			],
+			[
+				"get",
+				"get\tget"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Snippet: ge",
+				"Snippet: get"
+			],
+			[
+				"",
+				"Set Syntax: Objective-C++"
+			],
+			[
+				"Snippet: ",
+				"Snippet: template <typename ${1:_InputIter}>"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/afonso/UFC/IoT/trabalho-final/servidor/server.js",
+		"/home/afonso/UFC/IoT/trabalho-final/servidor/teste.txt",
+		"/home/afonso/UFC/i9move/i9move-master/.git/logs/refs/remotes/i9move/master",
+		"/home/afonso/TCC2/Resultados/ler_saida.py",
+		"/home/afonso/TCC2/Resultados/arquivo-gerado/time-transacao/time-transacao.csv",
+		"/home/afonso/TCC2/Resultados/saida_10000.json",
+		"/home/afonso/TCC2/Resultados/saida_1000.json",
+		"/home/afonso/TCC2/Resultados/saida_100.json",
+		"/home/afonso/programas/repos/ns-3-allinone/ns-3-dev/src/applications/model/chainiot-node.h",
+		"/home/afonso/repos/ns-3-allinone/ns-3-dev/src/applications/model/blockchain.h",
+		"/home/afonso/repos/ns-3-allinone/ns-3-dev/src/applications/model/blockchain.cc",
+		"/home/afonso/TCC2/Resultados/arquivo-gerado/time/qtd-time_100.csv",
+		"/home/afonso/TCC2/Resultados/arquivo-gerado/time/qtd-time_1000.csv",
+		"/home/afonso/repos/ns-3-allinone/ns-3-dev/src/applications/helper/iot-helper.h",
+		"/home/afonso/repos/ns-3-allinone/ns-3-dev/src/applications/helper/iot-helper.cc",
+		"/home/afonso/repos/ns-3-allinone/ns-3-dev/scratch/iot_teste.cc",
+		"/home/afonso/Downloads/primo.py",
+		"/home/afonso/Downloads/Numero-primo.py",
+		"/home/afonso/UFC/IoT/trabalho3/python/python/dispositivo1.py",
+		"/home/afonso/Área de Trabalho/\n Save BIG with our app!   Ship to Brazil - USD  Language   Support Center  Country Websit.txt",
+		"/home/afonso/UFC/IoT/trabalho3/python/python/dispositivo2.py",
+		"/home/afonso/UFC/IoT/trabalho3/python/python/start.sh",
+		"/home/afonso/repos/ns-3-allinone/ns-3-dev/scratch/first.cc",
+		"/home/afonso/repos/ns-3-allinone/ns-3-dev/AUTHORS",
+		"/home/afonso/TCC2/Resultados/timebloco.txt",
+		"/home/afonso/TCC2/Resultados/saida.json",
+		"/home/afonso/TCC2/Resultados/saida2.json",
+		"/home/afonso/TCC2/Resultados/idbloco.txt",
+		"/home/afonso/TCC2/Resultados/timebloco.ods",
+		"/home/afonso/programas/repos/ns-3-allinone/ns-3-dev/src/applications/model/chainiot-miner.cc",
+		"/home/afonso/programas/repos/ns-3-allinone/ns-3-dev/src/applications/model/blockchain.cc",
+		"/home/afonso/programas/repos/ns-3-allinone/ns-3-dev/src/applications/model/chainiot-miner.h",
+		"/home/afonso/repos/ns-3-allinone/ns-3-dev/src/topology-read/model/orbis-topology-reader.h",
+		"/home/afonso/UFC/IoT/trabalho3/python/python/aws-iot-device-sdk-python/samples/jobs/jobsSample.py",
+		"/home/afonso/UFC/IoT/trabalho3/python/python/aws-iot-device-sdk-python/samples/ThingShadowEcho/ThingShadowEcho.py",
+		"/home/afonso/programas/repos/ns-3-allinone/ns-3-dev/src/click/examples/nsclick-raw-wlan.cc",
+		"/home/afonso/programas/repos/ns-3-allinone/ns-3-dev/src/internet/model/icmpv4-l4-protocol.cc",
+		"/home/afonso/programas/repos/ns-3-allinone/ns-3-dev/src/aodv/examples/aodv.cc",
+		"/home/afonso/programas/repos/ns-3-allinone/ns-3-dev/src/applications/model/chainiot-node.cc",
+		"/home/afonso/TCC2/Bitcoin-Simulator-master/blockchain-3-master/block-miner.h",
+		"/home/afonso/TCC2/Bitcoin-Simulator-master/blockchain-3-master/block.h",
+		"/home/afonso/TCC2/Bitcoin-Simulator-master/blockchain-3-master/transaction.h",
+		"/home/afonso/programas/repos/ns-3-allinone/ns-3-dev/src/applications/model/blockchain.h",
+		"/home/afonso/UFC/IoT/trabalho3/python/python/aws-iot-device-sdk-python/samples/basicPubSub/basicPubSub_CognitoSTS.py",
+		"/home/afonso/UFC/IoT/trabalho3/python/python/aws-iot-device-sdk-python/samples/basicShadow/basicShadowUpdater.py",
+		"/home/afonso/UFC/IoT/trabalho3/python/python/aws-iot-device-sdk-python/samples/basicPubSub/basicPubSub.py",
+		"/home/afonso/UFC/IoT/trabalho3/python/python/aws-iot-device-sdk-python/samples/basicPubSub/basicPubSub_APICallInCallback.py",
+		"/home/afonso/UFC/IoT/trabalho3/python/python/aws-iot-device-sdk-python/samples/basicPubSub/basicPubSubAsync.py",
+		"/home/afonso/programas/repos/ns-3-allinone/ns-3-dev/src/applications/model/three-gpp-http-server.cc",
+		"/home/afonso/programas/repos/ns-3-allinone/ns-3-dev/src/applications/model/udp-client.cc",
+		"/home/afonso/programas/repos/ns-3-allinone/ns-3-dev/src/applications/model/udp-client.h",
+		"/home/afonso/programas/repos/ns-3-allinone/ns-3-dev/src/applications/model/udp-server.h",
+		"/home/afonso/programas/repos/ns-3-allinone/ns-3-dev/src/applications/model/udp-echo-client.h",
+		"/home/afonso/.config/sublime-text-3/Packages/User/get.sublime-snippet",
+		"/home/afonso/.config/sublime-text-3/Packages/User/set.sublime-snippet",
+		"/home/afonso/programas/repos/ns-3-allinone/ns-3-dev/src/applications/model/application-packet-probe.h",
+		"/home/afonso/programas/repos/ns-3-allinone/ns-3-dev/src/applications/model/onoff-application.cc"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"cont",
+			"bitcoinMinerHelper",
+			"bitcoinTopologyHelper",
+			"\t",
+			"BitcoinTopologyHelper",
+			"bitcoinPort",
+			"\"m_trust\": 1",
+			"\"m_trust\": 0",
+			"\"m_trust\": 0\"m_trust\": 0",
+			"\"m_trust\": 0",
+			"bitcoin",
+			"m_nextMiningEvent",
+			"m_bitcoinPort",
+			"m_peersSockets",
+			"iterator",
+			"m_nextBlockSize",
+			"height",
+			"ScheduleNextMiningEvent",
+			"m_fixedBlockTimeGeneration",
+			"Tran",
+			"host",
+			"StateTransitionCallback",
+			"/**\n * This file contains the definitions of the functions declared in blockchain.h\n */\n\n#include \"ns3/application.h\"\n#include \"ns3/event-id.h\"\n#include \"ns3/ptr.h\"\n#include \"ns3/traced-callback.h\"\n#include \"ns3/address.h\"\n#include \"ns3/log.h\"\n#include \"blockchain.h\"\n\nnamespace ns3 {\n\n  /*\n  * This file contains the definitions of the functions declared in blockchain.h\n  */\n\n  Block::Block (int blockHeight, int minerId, char* parentBlockMinerId , int blockSizeBytes,\n           double timeCreated = 0, double timeReceived, Ipv4Address receivedFromIpv4, int trust, char* hashVerification) \n  {\n\n    m_receivedFromIpv4 = receivedFromIpv4;           // The Ipv4 of the node which sent the block to the receiving node\n    m_blockHeight = blockHeight;\n    m_minerId = minerId;\n    m_parentBlockMinerId = parentBlockMinerId;\n    m_blockSizeBytes = blockSizeBytes;\n    m_timeCreated = timeCreated;\n    m_timeReceived = timeReceived;\n    m_trust = trust;\n    m_hashVerification = hashVerification;\n  }\n  Block::Block()\n  {\n  \tBlock(0,0,\"\",0,0,0,Ipv4Address(\"0.0.0.0\"),0,\"\");\n  }\n\n  Block::Block (const Block &blockSource) \n  {\n  \tm_receivedFromIpv4 = blockSource.m_receivedFromIpv4;           // The Ipv4 of the node which sent the block to the receiving node\n    m_blockHeight = blockSource.m_blockHeight;\n    m_minerId = blockSource.m_minerId;\n    m_parentBlockMinerId = blockSource.m_parentBlockMinerId;\n    m_blockSizeBytes = blockSource.m_blockSizeBytes;\n    m_timeCreated = blockSource.m_timeCreated;\n    m_timeReceived = blockSource.m_timeReceived;\n    m_trust = blockSource.m_trust;\n    m_hashVerification = blockSource.m_hashVerification;\n  }\n  Block::~Block (void)\n  {\n\n  }\n  int Block::GetBlockHeight (void) const\n  {\n    return m_blockHeight;\n  }\n  void Block::SetGetBlockHeight (int blockHeight)\n  {\n  \tm_blockHeight = blockHeight;\n  }\n  int Block::GetMinerId (void) const\n  {\n  \treturn m_minerId\n  }\n  void Block::SetMinerId (int minerId)\n  {\n  \tm_minerId = minerId;\n  }\n  \n  char* Block::GetParentBlockMiner (void) const\n  {\n  \treturn m_parentBlockMinerId;\n  }\n  void Block::SetParentBlockMiner (char* parentBlockMinerId)\n  {\n  \tm_parentBlockMinerId = parentBlockMinerId;\n  }\n  \n  int Block::GetBlockSizeBytes (void) const\n  {\n  \treturn m_blockSizeBytes;\n  }\n  void Block::SetBlockSizeBytes (int blockSizeBytes)\n  {\n  \tm_blockSizeBytes = blockSizeBytes;\n  }\n  \n  double Block::GetTimeCreated (void) const \n  {\n  \treturn m_timeCreated;\n  }\n  void Block::SerTimeCreated(double timeCreated)\n  {\n  \tm_timeCreated = timeCreated;\n  }\n  \n  double Block::GetTimeReceived (void) const\n  {\n  \treturn m_timeReceived;\n  }\n  void Block::SetImeReceived(double timeReceived)\n  {\n  \tm_timeReceived = m_timeReceived;\n  }\n  \n  Ipv4Address Block::GetReceivedFromIpv4 (void) const\n  {\n  \treturn m_receivedFromIpv4;\n  }\n  void Block::SetReceivedFromIpv4 (Ipv4Address receivedFromIpv4)\n  {\n  \tm_receivedFromIpv4 = receivedFromIpv4;\n  }\n  \n  int Block::GetTrust (void) const\n  {\n  \treturn m_trust;\n  }\n  void Block::SetTrust(int trust)\n  {\n  \tm_trust = trust;\n  }\n  \n  char* Block::GetHashVerification (void) const\n  {\n  \treturn m_hashVerification;\n  }\n  void  Block::SetHashVerification (char* hashVerification)\n  {\n  \tm_hashVerification = hashVerification;\n  }\n\n  /**\n  * \n  * Class Blockchain \n  *\n  **/\n  Blockchain::~Blockchain() {}\n  int Blockchain::GetNoStaleBlocks (void) const\n  {\n  \treturn m_noStaleBlocks;\n  }\n\n  int Blockchain::GetTotalBlocks (void) const\n  {\n    return m_totalBlocks;\n  }\n\n  bool HasBlock (const Block &newBlock) const;\n  bool HasBlock (int height, int minerId) const;\n\n\t/**\n\t* Return the block with the specified height and minerId.\n\t* Should be called after HasBlock() to make sure that the block exists.\n\t* Returns the orphan blocks too.\n\t*/\n\tBlock ReturnBlock(int height, int minerId);\n\n\tconst Block* GetBlockPointer (const Block &newBlock) const;\n\n\t/**\n\t* Gets the children of a block that are not orphans.\n\t*/\n\tconst std::vector<const Block *> GetChildrenPointers (const Block &block);\n\n\t/**\n\t* Gets the children of a newBlock that used to be orphans before receiving the newBlock.\n\t*/\n\tconst std::vector<const Block *> GetOrphanChildrenPointers (const Block &newBlock);\n\n\t/**\n\t* Gets the current top block. If there are two block with the same height (siblings), returns the one received first.\n\t*/\n\tconst Block* GetCurrentTopBlock (void) const;\n\n\t/**\n\t* Adds a new block in the blockchain.\n\t*/\n\tvoid AddBlock (const Block& newBlock);\n\n\t/**\n\t* Adds a new orphan block in the blockchain.\n\t*/\n\tint GetBlocksInForks (void);\n\n\t/**\n\t* Gets the longest fork size\n\t*/\n\tint GetLongestForkSize (void);\n\n}\n",
+			"/**",
+			"getcrr"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/C++/C++ Single File.sublime-build",
+	"project": "iot.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 333.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
